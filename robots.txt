@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /src/
-Sitemap: https://projectwindowslite.github.io/sitemap.xml

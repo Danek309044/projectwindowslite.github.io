@@ -17,6 +17,10 @@ body {
     padding-bottom: 25vh;
 }
 
+h2 {
+    color: #ee4242;
+}
+
 a {
     color: #006de9;
 }
